@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I’m Malvika 👋
 
-<!--
-**malvika-devops/Malvika-DevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a DevOps / Platform Engineer with ~2 years of experience at IBM.
 
-Here are some ideas to get you started:
+### What I work with
+- Kubernetes & OpenShift
+- ArgoCD & GitOps
+- CI/CD pipelines (Tekton)
+- Cloud: AWS, Azure
+- Automation using Bash, YAML, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m focusing on now
+- Building personal projects to showcase real-world DevOps workflows
+- Improving system design and automation skills
+
+📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/malvikakannan/) • [Email](malvika.self@gmail.com)
